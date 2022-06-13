@@ -8,13 +8,14 @@
 // 回到猫影视TV --> 设置 --> 当前接口配置 --> https://sunkangfu.github.io/sunruiyang/baddychen0608.json --> 确定 --> 躺平
 
 
+
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
 "spider":"https://sunkangfu.github.io/sunruiyang/baddychen0608.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
-"proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdW5rYW5nZnUuZ2l0aHViLmlvL3N1bnJ1aXlhbmcvYmFkZHljaGVuMDYwOC5qc29u"
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdW5rYW5nZnUuZ2l0aHViLmlvL3N1bnJ1aXlhbmcvbGl2ZS50eHQ="
 ]}]}],
 
 
