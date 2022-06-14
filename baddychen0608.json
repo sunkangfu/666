@@ -1,17 +1,17 @@
-// 本地接口 clan://协议 简易设定流程：
-// 下载底下懒人包 并记住存放位置
-// 升级猫影视TV至 2.1.1 Beta6
-// 设置 --> 存储权限 --> 允许
-// 设置 --> 当前接口配置 --> 透过扫码或浏览器访问网址 (如 http://172.16.xx.xx:9978/api.html)
-// 假设你已透过上述方式，成功进入"猫影视.接口"配置页面
-// 配置 --> 上传文件 --> 长按刚刚下载的懒人包 选取 --> 开启 --> 确认上传? --> 确定
-// 回到猫影视TV --> 设置 --> 当前接口配置 --> clan://localhost/baddychen0608/baddychen0608.json --> 确定 --> 躺平
+// 赵海专用
+// 赵海专用
+// 赵海专用
+// 赵海专用
+// 赵海专用
+// 赵海专用
+// 赵海专用
+// 赵海专用
 
 
 {
 "wallpaper":"https://picsum.photos/1280/720/?blur=10",
 
-"spider":"clan://baddychen0608/baddychen0608.jar",
+"spider":"https://sunkangfu.github.io/sunruiyang/baddychen0608.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":[
 "proxy://do=live&type=txt&ext=Y2xhbjovL2JhZGR5Y2hlbjA2MDgvdHYvbGl2ZS50eHQ="
