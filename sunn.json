@@ -1,7 +1,7 @@
-﻿// 配置地址 --> https://sunkangfu.github.io/sunruiyang/sunn.json
+﻿// 配置地址 --> https://raw.fastgit.org/sunkangfu/sunruiyang/sunn.json
 
 {
-"spider":"https://sunkangfu.github.io/sunruiyang/0630.jar",
+"spider":"https://raw.fastgit.org/sunkangfu/sunruiyang/0630.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovLzE5Mi4xNjguMS4zL2JjLnR4dAog"]}]}],
 
