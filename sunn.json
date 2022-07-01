@@ -1,4 +1,4 @@
-﻿// 配置地址 --> https://sunkangfu.github.io/sunruiyang/sunn.json
+// 配置地址 --> https://sunkangfu.github.io/sunruiyang/sunn.json
 
 {
 "spider":"https://sunkangfu.github.io/sunruiyang/0630.jar",
@@ -79,7 +79,37 @@
 {"key":"csp_xpath_网络搜集源23","name":"AGE","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/x/raw/branch/main/604-age.js"},
 {"key":"csp_biubiu_风车动漫","name":"风车","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/d05-fcdm.js"},
 {"key":"csp_biubiu_森屋新番","name":"森屋","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/d02-swxf.js"},
-{"key":"csp_biubiu_维奇动漫","name":"维奇","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/d03-wqdm.js"},      
+{"key":"csp_biubiu_维奇动漫","name":"维奇","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitea.com/99/b/raw/branch/main/xb/d03-wqdm.js"}, 
+      
+      
+
+
+//{"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable": 1},
+//{"key":"csp_Zxzj","name":"🐼在线之家(SP)","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"csp_biubiu_斗鱼","name":"🐬斗鱼(XB)","type":3,"api":"csp_XBiubiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://192.168.1.3/MaooXB/douyu.json"},
+//{"key":"csp_xpath_duboku","name":"独播库(XPMac)","type":3,"api":"csp_XPathMac","searchable":1,"quickSearch":1,"filterable":0,"ext":"http://192.168.1.3/MaooXP/duboku2.json"},
+//{"key": "___xmf哔","name": "哔嘀","type": 3,"api": "csp_XPathMacFilter","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "http://192.168.1.3/MaooXP/bidi.json"},
+
+
+## M浏览器中APP影视规则支持(AppYsV2)
+#萝卜/白菜/木白/绿豆
+
+#
+#神马
+#
+
+
+## 广大侠 资源网采集
+#官方解析
+
+#
+#切片资源
+
+#
+#优质资源
+
+#
+#三方聚合
 
 ],
 
