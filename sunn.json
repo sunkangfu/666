@@ -3,7 +3,7 @@
 {
 "spider":"https://sunkangfu.github.io/sunruiyang/0701.jar",
 
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRodWIuY29tL3N1bmthbmdmdS9zdW5ydWl5YW5nL2JjLnR4dAog"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvc3Vua2FuZ2Z1L3N1bnJ1aXlhbmcvbWFpbi9iYy50eHQ="]}]}],
 
 
 "sites":[
