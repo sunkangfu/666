@@ -1,7 +1,7 @@
 // 配置地址 --> https://sunkangfu.github.io/sunruiyang/sunn.json
 
 {
-"spider":"https://sunkangfu.github.io/sunruiyang/25447.jar",
+"spider":"https://sunkangfu.github.io/sunruiyang/qiaoji.jar",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdW5rYW5nZnUuZ2l0aHViLmlvL3N1bnJ1aXlhbmcvYmMudHh0"]}]}],
 
