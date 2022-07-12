@@ -1,6 +1,6 @@
 ﻿{
 // spider
-"spider":"https://sunkangfu.github.io/jianzhang/qiaoji711.jar",
+"spider":"https://sunkangfu.github.io/jhb.jar",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdW5rYW5nZnUuZ2l0aHViLmlvL3N1bnJ1aXlhbmcvYmMudHh0CiA="]}]}],
