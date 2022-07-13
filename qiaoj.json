@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"https://gitea.com/18680363738/jianzhang/raw/branch/main/jhb.jar;md5;72ecaa6cda698d2d2c2ce57955bdc8a9",
+"spider":"https://gitea.com/18680363738/jianzhang/raw/branch/main/jhb.jar",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdW5rYW5nZnUuZ2l0aHViLmlvL3N1bnJ1aXlhbmcvYmMudHh0CiA="]}]}],
