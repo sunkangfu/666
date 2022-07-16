@@ -1,7 +1,7 @@
 // 配置地址 --> https://sunkangfu.github.io/sunruiyang/qiaoj.json
 
 {
-"spider":"https://gitea.com/18680363738/jianzhang/raw/branch/main/zh.jar;md5;0bc106a3c5c0ca3aeb1af298fba405be",
+"spider":"https://gitea.com/18680363738/jianzhang/raw/branch/main/top91.jar;md5;b3c4bd9c40c4698717de97b0fe63f882",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zdW5rYW5nZnUuZ2l0aHViLmlvL3N1bnJ1aXlhbmcvYmMudHh0"]}]}],
 
