@@ -9,7 +9,7 @@
 //喺方法上:创意唔敌适度.
 
 {
-"spider":"https://gitea.com/18680363738/jianzhang/raw/branch/main/fufu.jar;md5;82b8f673751c52c2b35d435d6d3e8f80",
+"spider":"https://gitea.com/sunkangfu/skf/raw/branch/main/fufu.jar;md5;82b8f673751c52c2b35d435d6d3e8f80",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
