@@ -10,7 +10,7 @@
 
 
 {
-"spider":"https://gitea.com/sunkangfu/skf/raw/branch/main/fufu.jar;md5;cae30d1c7a011929ab18c24ad9f216d0",
+"spider":"https://gitea.com/sunkangfu/skf/raw/branch/main/fufu.jar;md5;6d2b8c8fc1b635fa5e2d7befce5fd801",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
