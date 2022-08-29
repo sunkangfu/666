@@ -1,3 +1,1 @@
-{
-		"tvjx": "http://120.233.84.226:5612/tvjx/?url="
-}
+http://zdytv01.tk/api/search.php?key=free&wd=
