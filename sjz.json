@@ -71,7 +71,7 @@
 {"key":"小学课堂","name":"📚小学课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/sunkangfu/skf/raw/branch/main/小学课堂.json"},
 {"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/sunkangfu/skf/raw/branch/main/初中课堂.json"},
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://gitea.com/sunkangfu/skf/raw/branch/main/高中课堂.json"},
-{"key":"Bili","name":"🅱️哔哩套餐(bilibili)","type":3,"api":"csp_Bili","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/sunkangfu/skf/raw/branch/main/bili2.json"},
+{"key":"Bili","name":"🅱️哔哩套餐(bilibili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://gitea.com/sunkangfu/skf/raw/branch/main/bili2.json"},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://gitea.com/sunkangfu/skf/raw/branch/main/MaooXB/kuqimv.json"},
 {"key":"csp_appysv2_9e国语","name":"9E国语","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://vod.9e03.com/lvdou_api.php/v1.vod"},
 {"key":"push_agent","name":"🎯推送（爱优腾/阿里云盘/磁力链接）","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "7bb5b24ca3274ad781a6071082e9eebd","jar":"https://gitea.com/sunkangfu/skf/raw/branch/main/OriginPush.jar;md5;6ebe9e6bdced846cca3421cdd09d58d3"},
