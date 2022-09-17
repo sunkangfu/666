@@ -10,7 +10,7 @@
 
 
 {
-"spider":"https://gitea.com/sunkangfu/skf/raw/branch/main/fufu.jar;md5;870d4c9c1bfcbfc7a87d46cb166caf5b",
+"spider":"https://gitcode.net/weixin_42214623/1/-/raw/main/0917.jar;md5;a6d60a8d147bf51d4a6bc819696b3c83",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
