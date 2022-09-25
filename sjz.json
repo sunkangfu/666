@@ -48,7 +48,7 @@
 {"key": "csp_biubiu_ting","name": "听书网（无画面）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/weixin_42214623/1/-/raw/main/tsw.json"},
 {"key":"csp_AliPS","name":"📚盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":0,"ext":"159f0351f0cb4b96a7c5b70d6ccfa667","jar":"https://gitcode.net/weixin_42214623/1/-/raw/main/OriginPush.jar;md5;6ebe9e6bdced846cca3421cdd09d58d3"},
 {"key":"csp_Yisou","name":"🔍易搜(仅搜索)","type":3,"api":"csp_Yisou","searchable":1,"quickSearch":1,"filterable":0,"ext":"159f0351f0cb4b96a7c5b70d6ccfa667","jar":"https://gitcode.net/weixin_42214623/1/-/raw/main/OriginPush.jar;md5;6ebe9e6bdced846cca3421cdd09d58d3"},
-{"key": "Upyunso","name": "Up云搜（云盘仅搜索）","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "159f0351f0cb4b96a7c5b70d6ccfa667","jar":"https://gitcode.net/weixin_42214623/1/-/raw/main/OriginPush.jar;md5;6ebe9e6bdced846cca3421cdd09d58d3"},
+{"key": "Upyunso","name": "Up云搜（云盘仅搜索）","type": 3,"api": "csp_Upyunso","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "159f0351f0cb4b96a7c5b70d6ccfa667"},
 {"key":"zhaozy","name":"🗂️找资源(仅搜索)","type":3,"api":"csp_FindZY","searchable":1,"quickSearch":1,"filterable":1,"ext":"159f0351f0cb4b96a7c5b70d6ccfa667","jar":"https://gitcode.net/weixin_42214623/1/-/raw/main/OriginPush.jar;md5;6ebe9e6bdced846cca3421cdd09d58d3"},
 {"key":"csp_Auete","name":"🐼Auete","type": 3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Cokemv","name":"⛲Cokemv","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
