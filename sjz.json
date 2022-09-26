@@ -40,7 +40,7 @@
 {"key":"csp_xBPQ_酷客","name":"酷客影院","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_42214623/1/-/raw/main/MaooXB/kuke.json"},
 {"key": "555","name": "📌555影视","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "剧荒TV","name": "🎭剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
-{"key":"Smdyy_spider","name":"🐎神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+//{"key":"Smdyy_spider","name":"🐎神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key": "csp_Jianying","name": "🍁简影","type": 3,"api": "csp_JianYing","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDc4MiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0yNlQxMTowOTo0Ni43NDkrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTI2VDExOjA5OjQ2Ljc0OSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjU4NzgxMzQ5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjU5MDliMmEzLTU1MzktNDVhNy04NjI1LTgyMGZiMDNjOWM1MCIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY0NzY2NTkxLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.Ey5Q2TV4Pk_VvJFvY_1Gu1HkIYzEiSDa2UrvqLfSRMI"},
 //{"key": "csp_DiDuan","name": "⤵️低端影视","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"追剧喵","name":"🐈追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
