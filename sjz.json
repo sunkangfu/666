@@ -134,6 +134,7 @@
 //{"name": "懒人","type": 1,"url": "http://120.53.102.254/jx1/jx75.php?url="},
 {"name": "江湖","type": 1,"url": "http://211.99.99.236:4567/jhjson/ceshi.php?url="},
 {"name":"爱酷嗅探","type":0,"url":"https://jx.zhanlangbu.com/?url="},
+{"name":"刘兵解析","type":1,"url":"http://newjiexi.gotka.top/keyu3.php?url=","ext":{"header":{"User-Agent":"okhttp/4.1.0"}}},
 {"name":"Fosi嗅探","type":0,"url":"https://play.fositv.com/?url="},
 //{"name":"盘古","type": 1,"url": "http://150.230.216.174/tvjx.php?url="}, 
 //{"name":"m3u8tv高清","type": 0,"url": "https://jx.m3u8.tv/jiexi/?url="},
