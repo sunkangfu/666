@@ -16,7 +16,7 @@
 
 
 "sites":[
-{"key":"csp_77","name":"⛅酷云七七⛅","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":0},
+{"key":"csp_77","name":"⛅酷云七七⛅","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":0,"filterable":0},
 {"key":"T4","name":"🥀影视榜单┃搜索🥀","type":4,"api":"https://t4.secan.icu/vod?sites=voflix,gitcafe,onelist&timeout=5","searchable":1,"quickSearch":1,"filterable":0},
 {"key":"Lezhu_spider","name": "🐷乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"KanSJ_spider","name":"🛰️看视界","api":"csp_KanSJ","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
