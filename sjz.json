@@ -31,6 +31,7 @@
 {"key":"csp_XYQBiu_wanneng","name": "💯万能影视","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://gitcode.net/weixin_42214623/1/-/raw/main/MaooXB/wanneng.json"},
 {"key":"csp_XYQBiu_大米星球","name":"💯大米星球","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://gitcode.net/weixin_42214623/1/-/raw/main/MaooXB/dmxq2.json"},
 {"key":"csp_NianYing","name":"💐NBhut","type":3,"api":"csp_Nianying","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_xBPQ_胖虎","name":"💐胖虎影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_42214623/1/-/raw/main/MaooXB/phys.json"},
 {"key":"csp_xBPQ_在线","name":"️💐在线之家","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_42214623/1/-/raw/main/MaooXB/zxzj2.json"},	
 {"key": "csp_xBPQ_buka","name":"️💐不卡影院","type": 3,"api": "csp_xBPQ","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"https://gitcode.net/weixin_42214623/1/-/raw/main/MaooXB/buka.json"},
 {"key":"csp_xBPQ_极品","name":"💐极品影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://gitcode.net/weixin_42214623/1/-/raw/main/MaooXB/jpys.json"},	
