@@ -10,7 +10,7 @@
 
 
 {
-"spider":"https://raw.fastgit.org/sunkangfu/666/main/0928.jar;md5;c46d054bb9397ce6fd957afcf7b59a5b",
+"spider":"https://raw.fastgit.org/sunkangfu/666/main/00928.jar;md5;8c403f270bcb512631d8564535c0f0ab",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
