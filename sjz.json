@@ -27,7 +27,6 @@
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"🎾360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "293视频","name": "🎟293视频","type": 3,"api": "csp_SP293","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": ""},
-{"key":"csp_xpath_ctv","name":"🌴冲TMTV","type":3,"api":"csp_XPathMacFilter","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://raw.fastgit.org/sunkangfu/666/main/MaooXP/chongtmtv.json"},
 {"key":"csp_XYQBiu_lingyun","name": "💯凌云影视🌻","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/sunkangfu/666/main/MaooXB/lingyun.json"},
 {"key":"csp_XYQBiu_wanneng","name": "💯万能影视🌻","type": 3,"api": "csp_XYQBiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://raw.fastgit.org/sunkangfu/666/main/MaooXB/wanneng.json"},
 {"key":"csp_XYQBiu_大米星球","name":"💯大米星球🌻","type":3,"api":"csp_XYQBiu","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://raw.fastgit.org/sunkangfu/666/main/MaooXB/dmxq2.json"},
