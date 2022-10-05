@@ -16,6 +16,7 @@
 
 
 "sites":[
+{"key": "csp_Jianying","name": "🍁简影🍁","type": 3,"api": "csp_JianYing","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDc4MiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0yNlQxMTowOTo0Ni43NDkrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTI2VDExOjA5OjQ2Ljc0OSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjU4NzgxMzQ5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjU5MDliMmEzLTU1MzktNDVhNy04NjI1LTgyMGZiMDNjOWM1MCIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY1MzY5NTQzLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.YLQZhtcs44JDDoLW9LCqcXZcldqz0GzA3_S1WiLTGyI"},
 {"key":"csp_77","name":"⛅酷云七七⛅","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1,"jar":"https://raw.fastgit.org/sunkangfu/666/main/qiqi.jar;md5;5f6a69ac1b85bc9f4fc3b352009c6739"},
 {"key":"T4","name":"🥀影视榜单┃搜索🥀","type":4,"api":"https://t4.secan.icu/vod?sites=voflix,gitcafe,onelist&timeout=5","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Lezhu_spider","name": "🐷乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
@@ -46,7 +47,6 @@
 {"key": "555","name": "🌷555影视","type": 3,"api": "csp_Dy555","searchable": 1,"quickSearch": 1,"filterable": 1},
 {"key": "剧荒TV","name": "🎭剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key":"Smdyy_spider","name":"🐎神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
-{"key": "csp_Jianying","name": "🍁简影","type": 3,"api": "csp_JianYing","searchable": 1,"quickSearch": 1,"filterable": 0,"ext":"eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozNDc4MiwiQ3JlYXRlZEF0IjoiMjAyMi0wOS0yNlQxMTowOTo0Ni43NDkrMDg6MDAiLCJVcGRhdGVkQXQiOiIyMDIyLTA5LTI2VDExOjA5OjQ2Ljc0OSswODowMCIsIkRlbGV0ZWRBdCI6bnVsbCwidXNlcl9lbWFpbCI6IjU4NzgxMzQ5QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjU5MDliMmEzLTU1MzktNDVhNy04NjI1LTgyMGZiMDNjOWM1MCIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOm51bGwsInJlZ19rZXkiOiIiLCJ0dl90aW1lIjpudWxsLCJ0dl9rZXkiOiIifSwiZXhwIjoxNjY1MzY5NTQzLCJpc3MiOiJBbGZyZWRvIE1lbmRvemEifQ.YLQZhtcs44JDDoLW9LCqcXZcldqz0GzA3_S1WiLTGyI"},
 {"key": "csp_DiDuan","name": "⤵️低端影视","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 0},
 {"key":"追剧喵","name":"🐈追剧喵(SP)","type":3,"api":"csp_ZJMiao","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_QQ","name": "🐧腾讯《官》","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
