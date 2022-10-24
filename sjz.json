@@ -13,10 +13,20 @@
 "spider":"https://gitea.com/sunkangfu/0/raw/branch/main/66666.jpg;md5;c0dea6031c0d170b21cf9c00a7fe1501",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyMi96Yi50eHQ="]}]}],
+   
 "rules": [
 {"host": "*","rule": ["default.365yg.com"]},
 {"host": "dyxs20.com","rule": [".m3u8"]},
 {"host": "www.agemys.cc","rule": ["cdn-tos","obj/tos-cn"]},
+{"host":"*", "rule":["douyinvod.com", "/video/tos/cn/"]},
+{"host":"*", "rule":["default.365yg.com", "/video/tos/cn/"]},
+{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".m3u8"]},
+{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mp4"]},
+{"host":"*", "rule":["aliyundrive.net", "response-content-disposition=", ".mkv"]},
+{"host":"*", "rule":["/m3u8.php?path=", ".m3u8"]},
+{"host":"*", "rule":["/API.php?time=", "key=", "path=", ".m3u8"]},
+{"host":"*", "rule":["oss-cn-m3u8", "myqcloud.com.zh188.net", "?url=", ".m3u8"]},
+{ "host":"www.007ts.me", "rule":["hls.pchj.net", ".m3u8"]},
 {"host": "zjmiao.com","rule": ["play.videomiao.vip/API.php","time="]}],
 
 "sites":[
