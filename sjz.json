@@ -90,7 +90,7 @@
 {"key":"csp_Bd","name":"🌴哔嘀影视","type":3,"api":"csp_Bdys01","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "Ikan","name": "🏟爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable":1,"jar": "https://sunkangfu.github.io/666/cs.jar;md5;5c5d8940dd415ed3cf775eb45ecd17fe"},
 //{"key":"csp_Wmkk","name":"🎈完美看看","api":"csp_Wmkk","type":3,"filterable":1,"quickSearch":1,"searchable":1},
-{"key":"Tbook","name":"🎧听书网（无画面）","type":3,"api":"csp_Tbook","searchable":1,"quickSearch":1,"filterable":1,"jar": "https://sunkangfu.github.io/666/cs.jar;md5;5c5d8940dd415ed3cf775eb45ecd17fe"},
+{"key":"Tbook","name":"🎧听书网（无画面）","type":3,"api":"csp_Tbook","searchable":0,"quickSearch":1,"filterable":1,"jar": "https://sunkangfu.github.io/666/cs.jar;md5;5c5d8940dd415ed3cf775eb45ecd17fe"},
 //{"key": "csp_biubiu_ting","name": "🎧听书网（无画面）","type": 3,"api": "csp_XBiubiu","searchable": 1,"quickSearch": 1,"filterable": 0,"ext": "https://sunkangfu.github.io/666/tsw.json"},
 {"key":"Upyunso","name":"Up云搜（仅搜索）","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":0,"ext":"339541c49aab4f6c878119930894f7ab"},
 {"key":"csp_Yisou","name":"🔍易搜(仅搜索)","type":3,"api":"csp_Yiso","searchable":1,"quickSearch":1,"filterable":0,"ext":"339541c49aab4f6c878119930894f7ab"},
