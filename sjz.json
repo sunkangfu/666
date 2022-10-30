@@ -10,7 +10,7 @@
 
 
 {
-"spider":"https://gitea.com/sunjianzhang/kang520/raw/branch/main/sunkangfu.bmp;md5;791c93bfce6a3828c71c6171f8402f40",
+"spider":"https://gitea.com/sunjianzhang/kang520/raw/branch/main/sunkangfu.bmp;md5;6b149dae03d7d4f902f758295ef42209",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
