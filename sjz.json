@@ -130,7 +130,7 @@
 {"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://sunkangfu.github.io/666/chuzhongketang.json"},
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://sunkangfu.github.io/666/gaozhongketang.json"},
 {"key":"Bili","name":"🅱️哔哩套餐(bilibili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://sunkangfu.github.io/666/bili2.json"},
-{"key":"Xiaoh","name":"🌼Xiaoh","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Xiaoh","name":"🌼Xiaoh(墙外)┃SP","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Nbys","name":"👑泥巴(墙外)┃SP","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"If101","name":"💿If101(墙外)┃SP","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://sunkangfu.github.io/666/MaooXB/kuqimv.json"},
