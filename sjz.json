@@ -87,7 +87,7 @@
 {"key":"csp_xBPQ_瓜皮TV","name":"💐瓜皮影视🌺","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sunkangfu.github.io/666/MaooXB/guapi.json"},	
 {"key":"csp_xBPQ_蓝光","name":"💐蓝光影院🌺","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sunkangfu.github.io/666/MaooXB/lgyy.json"},
 {"key":"csp_xBPQ_酷客","name":"💐酷客影院🌺","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"https://sunkangfu.github.io/666/MaooXB/kuke.json"},
-//{"key":"Xiaoh","name":"🌼Xiaoh","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"Xiaoh","name":"🌼Xiaoh","type":3,"api":"csp_Xiaoh","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_玄天","name":"🌺玄天影视🌺","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=玄天","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_人人影视","name":"🌺人人影视🌺","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=人人影视","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"dr_TV云播","name":"🌺TV云播🌺","type":1,"api":"http://drpy.fuqizhishi.com/vod?rule=TV云播&ext=txt/js/tg/TV云播.js","searchable":1,"quickSearch":1,"filterable":1},
