@@ -10,7 +10,7 @@
 
 
 {
-"spider":"https://sunkangfu.github.io/666/1080.jar;md5;6a392225a0365482319479ead878074b",
+"spider":"https://sunkangfu.github.io/666/123456.jar;md5;d9579fe97c641aea2b8662ef98fd1e48",
 
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}]}],
 
