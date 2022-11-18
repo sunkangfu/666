@@ -43,7 +43,7 @@
 {"key":"Lgyy","name":"🎬蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"📽️360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "农民","name": "🌾农民┃SP","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://sunkangfu.github.io/666/MaooXB/nongmi.json"},
+//{"key": "农民","name": "🌾农民┃SP","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://sunkangfu.github.io/666/MaooXB/nongmi.json"},
 {"key":"Zjdr","name":"🌿追剧达人","type":3,"api":"csp_Zjdr","searchable":1,"quickSearch":1,"filterable":1},
 //{"key": "Ikan","name": "🏟爱看","type": 3,"api": "csp_IKan","searchable": 1,"quickSearch": 1,"filterable":1},
 {"key":"IKan","name":"🏟爱看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"a4ce9a4ba7d4f4bced2ff9dfc4ab4e50"},
