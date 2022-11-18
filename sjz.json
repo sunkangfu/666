@@ -33,8 +33,8 @@
 "sites":[
 {"key":"csp_77","name":"⛅酷云七七⛅","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_BBB","name": "🅱️哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://sunkangfu.github.io/666/bilib666.json"},
-{"key": "csp_Gitcafe","name": "📜小纸条（云盘高清）","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"ext": "279e9508c0e24938a40b34b5811a7f5f"},  
-//{"key":"csp_Gitcafe","name":"📜小纸条（云盘高清）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"279e9508c0e24938a40b34b5811a7f5f"},
+//{"key": "csp_Gitcafe","name": "📜小纸条（云盘高清）","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"ext": "279e9508c0e24938a40b34b5811a7f5f"},  
+{"key":"csp_Gitcafe","name":"📜小纸条（云盘高清）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"279e9508c0e24938a40b34b5811a7f5f"},
 {"key":"YiSo","name":"🔍易搜(仅搜索)","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"279e9508c0e24938a40b34b5811a7f5f"}, 
 {"key":"csp_AliPS","name":"📚盘搜(仅搜索)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"279e9508c0e24938a40b34b5811a7f5f"},  
 {"key":"Pang","name":"🐅胖虎┃SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027"},
