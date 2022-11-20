@@ -39,6 +39,7 @@
 {"key":"csp_AliPS","name":"📚盘搜(仅搜索)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":0,"ext":"279e9508c0e24938a40b34b5811a7f5f"},  
 {"key":"Pang","name":"🐅胖虎┃SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027"},
 {"key":"Lezhu_spider","name":"🐷乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
+{"key":"AppTT","name":"🖼图图影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
 {"key":"Lgyy","name":"🎬蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_LiteApple","name":"🍎小苹果(SP)","type":3,"api":"csp_LiteApple","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_SP360","name":"📽️360影视(SP)","type":3,"api":"csp_SP360","searchable":1,"quickSearch":1,"filterable":1},
