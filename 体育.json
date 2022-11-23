@@ -1,5 +1,6 @@
-﻿{
-  "classes": [
+{
+  "cookie":"https://raw.fastgit.org/sunkangfu/666/main/cookie.txt",
+  "classes":[
     {
       "type_name": "UFC",
       "type_id": "UFC"
