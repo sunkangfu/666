@@ -1,5 +1,6 @@
 {
-"classes": [
+  "cookie":"https://raw.fastgit.org/sunkangfu/666/main/cookie.txt",
+  "classes":[
 {"type_name":"学前","type_id":"学前"},
 {"type_name":"小学","type_id":"小学"},
 {"type_name":"初中","type_id":"初中"},
