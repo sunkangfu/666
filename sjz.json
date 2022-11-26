@@ -58,7 +58,7 @@
 {"key":"Cokemv","name":"⛲可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 //{"key":"douban","name":"🥗豆瓣荐片┃","type":4,"api":"https://service-la7b1xlw-1308372858.gz.apigw.tencentcs.com/release/vod","searchable": 0,"quickSearch": 0,"filterable": 0},
 {"key":"T4","name":"🥀影视榜单┃搜索🥀","type":4,"api":"https://t4.secan.icu/vod?sites=voflix,gitcafe,onelist&timeout=5","searchable":1,"quickSearch":1,"filterable":0},
-{"key":"csp_Alist","name":"Alist┃网盘","type":3,"api":"csp_Alist","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/alist.json"},
+{"key":"csp_Alist","name":"Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/alist.json"},
 {"key":"csp_Tkys","name":"🥇天空┃SP","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🏭工厂┃SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Ddys","name":"🚕滴滴影视┃SP","type":3,"api":"csp_Ddys","searchable":1,"quickSearch":1,"filterable":1},
