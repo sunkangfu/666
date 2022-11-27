@@ -10,7 +10,7 @@
 
 
 {
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/334455.jar;md5;278551b0a9ae961f4b2f369a2659b6ba",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/334455.jar;md5;fc52bf329add285af4e7f8c0e89b529b",
 
 "lives": [{"name": "直播","type": 0,"url": "http://home.jundie.top:81/Cat/tv/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}],
