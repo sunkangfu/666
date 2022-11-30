@@ -39,6 +39,7 @@
 {"key":"Upyunso","name":"Up云搜（仅搜索）","type":3,"api":"csp_Upyunso","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt"},
 {"key":"csp_77","name":"⛅酷云七七⛅","type":3,"api":"csp_Kunyu77","searchable":0,"quickSearch":1,"filterable":1}, 
 //{"key": "csp_Gitcafe","name": "📜小纸条（云盘高清）","type": 3,"api": "csp_Paper","searchable": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt"},   
+{"key":"世界杯","name":"🙌一起看","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"8e3aefcba838d8dc5102ac786719d837"},  
 {"key":"Pang","name":"🐅胖虎┃SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"c41fdb671b20925c76fa9b6ff8bad027"},
 {"key":"Lezhu_spider","name":"🐷乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":""},
 {"key":"AppTT","name":"🖼图图影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
