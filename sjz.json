@@ -32,7 +32,7 @@
 
 "sites":[
 {"key":"csp_BBB","name": "🅱️哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 0,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/bilib666.json"},
-{"key":"csp_Alist","name":"Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/alist.json"},  
+{"key":"AList","name": "Alist┃网盘","type": "3","api":"csp_AList","searchable":"1","ext": "https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/alist.json"},  
 {"key":"csp_Gitcafe","name":"📜小纸条（云盘高清）","type":3,"api":"csp_Gitcafe","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt"}, 
 {"key":"YiSo","name":"🔍易搜(仅搜索)","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt"}, 
 {"key":"csp_AliPS","name":"📚盘搜(仅搜索)","type":3,"api":"csp_AliPS","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt"}, 
