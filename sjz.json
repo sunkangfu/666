@@ -10,7 +10,7 @@
 
 
 {
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/xo.jar;md5;da6011666e2ecec1f865a6a5b8dfd187",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/xo.jar;md5;c79eabebc699b028719b0b7ea1f595d8",
 
 "lives": [{"name": "直播","type": 0,"url": "http://home.jundie.top:81/Cat/tv/live.txt","epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}"},
 {"group": "redirect","channels": [{"name": "live","urls": ["proxy://do=live&type=txt&ext=aHR0cDovL2hvbWUuanVuZGllLnRvcDo4MS9DYXQvdHYvbGl2ZS50eHQ="]}],
@@ -55,7 +55,7 @@
 //{"key": "农民","name": "🌾农民┃SP","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/MaooXB/nongmi.json"},
 {"key":"csp_Kuaikan","name":"👀快看(SP)","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"在线之家","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"filterable":1},
-{"key": "csp_DiDuan","name": "⤵️低端影视","type": 3,"api": "csp_Ddrk","searchable": 1,"quickSearch": 1,"filterable": 1},
+{"key":"Ddys","name":"⤵️低端影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"1cc92323700909e7d46623bc85b958d6"},
 {"key":"Auete","name":"🐼奥特","type":3,"api":"csp_Auete","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Smdyy_spider","name":"🐎神马影视","api":"csp_Smdyy","type":3,"filterable":1,"quickSearch":1,"searchable":1},
 {"key":"Cokemv","name":"⛲可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
