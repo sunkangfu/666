@@ -54,7 +54,7 @@
 {"key":"Cokemv","name":"⛲可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Tkys","name":"🥇天空┃SP","type":3,"api":"csp_Tkys","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Ysgc","name":"🏭工厂┃SP","type":3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"Dy1010","name":"📺双十电影┃SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"Dy1010","name":"📺双十电影┃SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Fantuan","name":"🍙饭团影院┃SP","type":3,"api":"csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Nkdy","name":"📹耐看影院┃SP","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "剧荒TV","name": "🎭剧荒","type": 3,"api": "csp_Juhuang","searchable": 1,"quickSearch": 1,"filterable": 1},
@@ -91,7 +91,7 @@
 //{"key":"If101","name":"💿If101(墙外)┃SP","type":3,"api":"csp_If101","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/MaooXB/kuqimv.json"},
 {"key":"push_agent","name":"🎯推送（爱优腾/阿里云盘/磁力链接）","type": 3,"api": "csp_PushAgent","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt"},
-{"key":"cl_yinfans","name":"音范丝┃磁力","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/MaooXB/yinfans.json"},
+//{"key":"cl_yinfans","name":"音范丝┃磁力","type":3,"api":"csp_XPath","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/MaooXB/yinfans.json"},
 {"key":"cl_bdys","name":"哔嘀┃磁力","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/MaooXB/bdyscl.json"}],
 
 "parses":[
