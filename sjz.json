@@ -95,7 +95,7 @@
 {"name":"解析聚合","type":3,"url":"Demo"},
 {"name":"Json并发","type":2,"url":"Parallel"},
 {"name":"Json轮询","type":2,"url":"Sequence"},
-{"name":"赵海","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=2774542&key=eilmstvxBCHILNOPW4&url=","header":{"User-Agent":"Mozilla/5.0"}}],
+{"name":"赵海","type":1,"url":"https://k.json.icu/home/api?type=ys&uid=2774542&key=eilmstvxBCHILNOPW4&url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","mgtv","芒果","letv","乐视","pptv","PPTV","sohu","bilibili","哔哩哔哩","哔哩"],"header":{"User-Agent":""}}}],
 //{"name":"Q1官解","type":1,"url":"https://parse.ikunfk.cc/parse/sign/20221230?url=","header":{"User-Agent":"Mozilla/5.0"}},
 //{"name":"刚刚","type":1,"url":"http://jx.fuqizhishi.com:63/API.php?appkey=feimao&url=","header":{"User-Agent":"Mozilla/5.0"}},
 //{"name":"风起兖州","type": 0,"url": "http://jx.gbxy.net.cn/?url="},
