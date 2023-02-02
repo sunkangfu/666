@@ -86,7 +86,7 @@
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","searchable":0,"quickSearch":0,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/高中课堂.json"},
 {"key":"Bili","name":"🅱️哔哩套餐(bilibili)","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/bili2.json"},
 {"key":"Xiaoh","name":"🌼Xiaoh(墙外)┃SP","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"0842c1d2a8534ec62fb3a3ed848851a7"},
-{"key":"csp_Nbys","name":"👑泥巴(墙外)┃SP","type":3,"api":"csp_Nbys","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"csp_Nbys","name":"👑泥巴(墙外)┃SP","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇MV(XP)","type":3,"api":"csp_XPath","searchable":0,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/MaooXB/kuqimv.json"},
 {"key":"push_agent","name":"🎯推送（爱优腾/阿里云盘/磁力链接）","type": 3,"api": "csp_Push","searchable": 0,"quickSearch": 0,"filterable": 0,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt"},
 {"key":"cl_bdys","name":"哔嘀┃磁力","type":3,"api":"csp_XPbd","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/MaooXB/bdyscl.json"}],
