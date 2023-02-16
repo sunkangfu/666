@@ -55,7 +55,7 @@
 {"key": "csp_Yht","name": "🍀野荷塘┃SP", "type": 3, "api": "csp_Yht","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://yehetang.cc"}, 
 {"key": "农民","name": "🌾农民┃SP","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/MaooXB/nongmi.json"},
 {"key": "csp_Ysgc","name":"🏭工厂┃SP", "type": 3,"api":"csp_Ysgc","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.ysgc.fun"},
-{"key":"Dy1010","name":"📺双十电影┃SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
+//{"key":"Dy1010","name":"📺双十电影┃SP","type":3,"api":"csp_Dy1010","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_fantuan","name": "🍙饭团┃SP","type": 3, "api": "csp_Fantuan","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.fantuanhd.com"},
 {"key":"Nkdy","name":"📹耐看影院┃SP","type":3,"api":"csp_Nkdy","searchable":1,"quickSearch":1,"filterable":1},
 {"key": "csp_QQ","name": "🐧腾讯《官》","type": 3,"api": "csp_QQ","searchable": 1,"quickSearch": 1,"filterable": 1},
