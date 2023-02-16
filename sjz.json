@@ -22,14 +22,14 @@
 ],
   
 "sites":[
-{"key":"csp_BBB","name": "🅱️哔哩套餐","type": 3,"api": "csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/bilib666.json"},
+{"key":"csp_BBB","name": "🅱️哔哩套餐","type": 3,"api":"csp_Bili","searchable": 0,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/bilib666.json"},
 {"key":"AList","name":"Alist┃网盘","type": "3","api":"csp_AList","searchable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},  
 {"key":"csp_Gitcafe","name":"📜小纸条（云盘高清）","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt"},
 {"key":"csp_AliPS","name":"📚盘搜(仅搜索)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt"},
 {"key":"YiSo","name":"🔍易搜(仅搜索)","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt"},
 {"key":"zhaozy","name":"🗂️找资源(仅搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt$$$yingshi$$$abcd1234"},
 {"key":"Upyunso","name":"Up云搜（仅搜索）","type":3,"api":"csp_UpYun","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt"},
-{"key": "农民","name": "🌾农民┃SP","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/MaooXB/nongmi.json","jar": "https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/wulb.jar;md5;a5ec5bc531df9a9369b480df52b9d008"},  
+{"key": "农民","name": "🌾农民┃SP","type": 3,"api": "csp_Nmys","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/MaooXB/nongmi.json","jar": "https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/wulb.jar;md5;a5ec5bc531df9a9369b480df52b9d008"},  
 {"key": "csp_BuLei", "name": "💢布雷┃SP", "type": 3,"api": "csp_BuLei","searchable": 1,"quickSearch": 1,"filterable": 1,"ext": "https://www.bulei.cc"},  
 {"key":"AppTT","name":"🐰图图影视","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5"},
 {"key":"Dy555","name":"💫555 影视┃","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"f41992bd740145ed58cb212dc0876582"},  
@@ -139,6 +139,7 @@
 "ads":["mimg.0c1q0l.cn","www.googletagmanager.com","www.google-analytics.com","mc.usihnbcq.cn","mg.g1mm3d.cn","mscs.svaeuzh.cn","cnzz.hhttm.top","tp.vinuxhome.com","cnzz.mmstat.com","www.baihuillq.com","s23.cnzz.com","z3.cnzz.com","c.cnzz.com","stj.v1vo.top","z12.cnzz.com","img.mosflower.cn","tips.gamevvip.com","ehwe.yhdtns.com","xdn.cqqc3.com","www.jixunkyy.cn","sp.chemacid.cn","hm.baidu.com","s9.cnzz.com","z6.cnzz.com","um.cavuc.com","mav.mavuz.com","wofwk.aoidf3.com","z5.cnzz.com","xc.hubeijieshikj.cn","tj.tianwenhu.com","xg.gars57.cn","k.jinxiuzhilv.com","cdn.bootcss.com","ppl.xunzhuo123.com","xomk.jiangjunmh.top","img.xunzhuo123.com","z1.cnzz.com","s13.cnzz.com","xg.huataisangao.cn","z7.cnzz.com","xg.huataisangao.cn","z2.cnzz.com","s96.cnzz.com","q11.cnzz.com","thy.dacedsfa.cn","xg.whsbpw.cn","s19.cnzz.com","z8.cnzz.com","s4.cnzz.com","f5w.as12df.top","ae01.alicdn.com","www.92424.cn","k.wudejia.com","vivovip.mmszxc.top","qiu.xixiqiu.com","cdnjs.hnfenxun.com","cms.qdwght.com"],
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img"
 }
+
 
 
 
