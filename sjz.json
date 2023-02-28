@@ -15,7 +15,7 @@
   
 "sites":[
 {"key":"csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/bilib666.json"},
-{"key":"AList","name":"Alist┃网盘","type":"3","api":"csp_AList","searchable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},  
+{"key":"AList","name":"Alist┃网盘","type":"3","api":"csp_AList","searchable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/FM.jar;md5;69ef6396eb2400c03529c7714d96841a"}, 
 {"key":"csp_Gitcafe","name":"📜小纸条（云盘高清）","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/FM.jar;md5;69ef6396eb2400c03529c7714d96841a"},
 {"key":"csp_AliPS","name":"📚盘搜(仅搜索)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/FM.jar;md5;69ef6396eb2400c03529c7714d96841a"},
 {"key":"YiSo","name":"🔍易搜(仅搜索)","type":"3","api":"csp_YiSo","searchable":"1","quickSearch":"1","filterable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/FM.jar;md5;69ef6396eb2400c03529c7714d96841a"},
