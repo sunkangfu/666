@@ -14,7 +14,7 @@
 {"name":"Json","type":1,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","logo":"http://epg.51zmt.top:8000/{logo}"}],
   
 "sites":[
-{"key":"csp_apple","name":"🍎小苹果┃SP","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1}, 
+{"key":"csp_apple","name":"🍎小苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/bilib666.json"},
 {"key":"AList","name":"Alist┃网盘","type":"3","api":"csp_AList","searchable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/FM.jar;md5;fd5c895e9b1c74cac1b80e1733f647b8"}, 
 {"key":"csp_Gitcafe","name":"📜小纸条（云盘高清）","type":3,"api":"csp_Paper","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"changeable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/FM.jar;md5;fd5c895e9b1c74cac1b80e1733f647b8"},
