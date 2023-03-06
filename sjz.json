@@ -9,7 +9,7 @@
 //喺方法上:创意唔敌适度.
 
 {
-"spider":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/xo.jar;md5;15963d2c360e6ecab89c962fc205a9b6",
+"spider":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/xo.jar;md5;c7a548f950e99c50a3465918f2aab475",
 "lives":[{"name":"TXT","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"Json","type":1,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","logo":"http://epg.51zmt.top:8000/{logo}"}],
   
@@ -28,7 +28,8 @@
 {"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/qijii.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
 {"key":"DNSP_spider","name":"酷酷影视","api":"csp_Dnsp","type":3,"filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996","jar":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/qijii.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
 {"key":"Lezhu_spider","name":"🐷乐猪影视","api":"csp_Lezhu","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/qijii.jar;md5;4f2d69de1285efa0a0e72c038de026e2"},
-{"key":"Dy555","name":"5️⃣️┃555┃影视","type":"3","api":"csp_Ys555","searchable":"1","quickSearch":"1","filterable":1,"ext":"https://www.555dyy1.com"}, 
+{"key":"Dy555","name":"5️⃣️┃555┃影视","type":"3","api":"csp_Ys555","searchable":"1","quickSearch":"1","filterable":1,"ext":"https://www.555dyy1.com"},
+{"key":"csp_AppMr","name":"👻明明┃影视","type":3,"api":"csp_AppMr","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Hlsp","name":"💣黑料┃影视","type":3,"api":"csp_Hlsp","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/heiliao.json"},  
 {"key":"Pang","name":"🐯胖虎┃SP","type":"3","api":"csp_Panghu","searchable":"1","quickSearch":"1","filterable":1},
 {"key":"世界杯","name":"🎉一起看","type":"3","api":"csp_YQKAPP","searchable":"1","quickSearch":"1","filterable":1,"ext":"https://api-tx.shumaxc.xyz"},
@@ -36,7 +37,7 @@
 {"key":"Kuaikan","name":"👀快看","type":"3","api":"csp_Kuaikan","searchable":"1","quickSearch":"1","filterable":1},
 {"key":"csp_Lgyy","name":"🌀蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext": "https://www.lgyy.tv"},
 {"key":"Ddys","name":"⤵️低端影视","type":"3","api":"csp_Ddrk","searchable":"1","quickSearch":"1","filterable":1},
-{"key":"LiteApple","name":"🍎小苹果(SP)","type":"3","api":"csp_LiteApple","searchable":"1","quickSearch":"1","filterable":1},
+{"key":"csp_apple","name":"🍎小苹果┃SP","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Smdyy","name":"🐴神马影视","type":"3","api":"csp_Smdyy","searchable":"1","quickSearch":"1","filterable":1},
 {"key":"Auete","name":"🏝奥特","type":"3","api":"csp_Auete","searchable":"1","quickSearch":"1","filterable":1},
 {"key":"Cokemv","name":"📕可乐","type":"3","api":"csp_Cokemv","searchable":"1","quickSearch":"1","filterable":1},
