@@ -27,6 +27,7 @@
 {"key":"csp_BuLei","name":"💢布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.bulei.cc"},  
 {"key":"csp_Xinsj","name":"🐼新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy2.com"},
 {"key":"csp_Vofl","name":"🎈Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
+{"key":"sliu_spider","name":"石榴电影","api":"csp_ShiLiuDY","type":3,"filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"ext","jar":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/qijii.jar;md5;58dbcf7265f01cc353e5b27855600236"}, 
 {"key":"百影视频","name":"百影视频","type":3,"api":"csp_MianHua","searchable":1,"playerType":2,"quickSearch":1,"filterable":0,"ext":"http://47.104.99.175","jar":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/qijii.jar;md5;58dbcf7265f01cc353e5b27855600236"},
 {"key":"DNSP_spider","name":"酷酷影视","type":3,"api":"csp_Dnsp","filterable":1,"quickSearch":1,"searchable":1,"ext":"http://121.62.19.116:1996","jar":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/qijii.jar;md5;58dbcf7265f01cc353e5b27855600236"},
 {"key":"Lezhu_spider","name":"🐷乐猪影视","type":3,"api":"csp_Lezhu","filterable":1,"playerType":2,"quickSearch":1,"searchable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/qijii.jar;md5;58dbcf7265f01cc353e5b27855600236"},
