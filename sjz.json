@@ -10,8 +10,22 @@
 
 {
 "spider":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/xo.jar;md5;2427acdd749c3d413e3c9d16d4bebce3",
-"lives":[{"name":"TXT","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
-{"name":"Json","type":1,"url":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/live.json","epg":"http://epg.51zmt.top:8000/api/diyp/?ch={epg}&date={date}","logo":"http://epg.51zmt.top:8000/{logo}"}],
+  
+"lives":[
+{
+"name": "live",
+"url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
+"type": 0,
+"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
+"logo": "https://epg.112114.xyz/logo/{name}.png",
+"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
+},    
+{"group":"redirect",
+"channels":[{
+"name":"redirect",
+"urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvdHZ6Yi50eHQ="]}]
+}],
+
   
 "sites":[
 {"key":"csp_AppTT","name":"🐰图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},   
