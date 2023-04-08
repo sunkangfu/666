@@ -28,7 +28,7 @@
 
   
 "sites":[
-{"key":"csp_AppTT","name":"🐰图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},
+{"key":"csp_apple","name":"🍎苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"直播","name":"📡电视┃直播","type":3,"playerType":1,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/直播转点播.js","ext":"Box醒人室$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},  
 {"key":"csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/bilib666.json"},
 {"key":"AList","name":"Alist┃网盘","type":"3","api":"csp_AList","searchable":"1","ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},  
@@ -37,7 +37,8 @@
 {"key":"YiSo","name":"🔍易搜(仅搜索)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/FM.jar;md5;2655d83179277b14101fb2a0b2cb30cf"},
 {"key":"zhaozy","name":"🗂️找资源(仅搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt$$$yingshi$$$abcd1234","jar":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/FM.jar;md5;2655d83179277b14101fb2a0b2cb30cf"},
 {"key":"Upyunso","name":"Up云搜（仅搜索）","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":0,"filterable":0,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/token.txt","jar":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/FM.jar;md5;2655d83179277b14101fb2a0b2cb30cf"},
-{"key":"农民","name":"🌾农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/MaooXB/nongmi.json"},   
+{"key":"农民","name":"🌾农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/sunkangfu/666/main/MaooXB/nongmi.json"},
+{"key":"csp_AppTT","name":"🐰图图","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1,"ext":"tv$$$dlJYWXFYbkgqbmlsU1JLIyNkMFZ0OE1JdzRJQW1yY3I=$$$Y2hpbkpaUzdiKnpYbzZzWQ==$$$aHR0cDovL2FwaS50dDU4LnR2L2NvbmZpZy9uZXd0di5qc29uP3NzPQ=="},  
 {"key":"csp_BuLei","name":"💢布雷","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"csp_Xinsj","name":"🐼新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.6080dy3.com"},
 {"key":"csp_Vofl","name":"🎈Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"filterable":1},
@@ -53,7 +54,6 @@
 {"key":"Kuaikan","name":"👀快看","type":"3","api":"csp_Kuaikan","searchable":"1","quickSearch":"1","filterable":1},
 {"key":"csp_Lgyy","name":"🌀蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},  
 {"key":"Ddys","name":"⤵️低端影视","type":"3","api":"csp_Ddrk","searchable":"1","quickSearch":"1","filterable":1},
-{"key":"csp_apple","name":"🍎苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"Smdyy","name":"🐴神马影视","type":"3","api":"csp_Smdyy","searchable":"1","quickSearch":"1","filterable":1},
 {"key":"Auete","name":"🏝奥特","type":"3","api":"csp_Auete","searchable":"1","quickSearch":"1","filterable":1},
 {"key":"csp_Cokemv","name":"📕可乐","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1}, 
