@@ -29,8 +29,7 @@
 
   
 "sites":[
-{"key":"csp_WoGG","name":"👽网络仓库┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://192.168.1.3/token.txt"},
-{"key":"直播","name":"📡电视┃直播","type":3,"playerType":1,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/直播转点播.js","ext":"Box醒人室$https://agit.ai/fantaiying/fty/raw/branch/master/live.txt#影视范精选$https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u&&&https://api.caonm.net/api/mc/"},  
+{"key":"csp_WoGG","name":"👽网络仓库┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://192.168.1.3/token.txt"}, 
 {"key":"csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_Bili","searchable":0,"quickSearch":1,"filterable":1,"ext":"https://sunkangfu.github.io/666/bilib666.json"},
 {"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},   
 {"key":"csp_Gitcafe","name":"📜小纸条（云盘高清）","type":3,"api":"csp_Paper","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://192.168.1.3/token.txt","jar":"https://sunkangfu.github.io/666/FM.jar;md5;65b0d8f66d7b4bcac6e13d7a1284a3e2"},
