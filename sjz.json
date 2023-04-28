@@ -50,7 +50,7 @@
 {"key":"Pang","name":"🐯胖虎","type":"3","api":"csp_Panghu","searchable":"1","quickSearch":"1","filterable":1},
 {"key":"csp_YQKAPP","name":"🎉一起看TV","type":3,"api":"csp_YQKAPP","playerType":2,"searchable":1,"quickSearch":1,"filterable":1,"ext":"https://api-aws.11ty.top"},
 {"key":"csp_Czsapp","name":"🏭厂长","type":3,"api":"csp_Czsapp","playerType":2,"searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_apple","name":"🍎苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1},   
+{"key":"csp_apple","name":"🍎苹果","type":3,"api":"csp_LiteApple","playerType":1,"searchable":1,"quickSearch":1,"filterable":1,"changeable":0},   
 {"key":"Kuaikan","name":"👀快看","type":"3","api":"csp_Kuaikan","searchable":"1","quickSearch":"1","filterable":1},
 {"key":"csp_Lgyy","name":"🌀蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},  
 {"key":"Ddys","name":"⤵️低端影视","type":"3","api":"csp_Ddrk","searchable":"1","quickSearch":"1","filterable":1},
