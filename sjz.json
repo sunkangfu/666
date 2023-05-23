@@ -11,22 +11,8 @@
 {
 "spider":"https://ghproxy.net/https://raw.githubusercontent.com/sunkangfu/666/main/xo.jar;md5;89fe4a02b78c136f02442851d659f1c0",
   
-"lives":[
-{
-"name": "live",
-"url": "http://我不是.肥猫.love:63/TV/tvzb.txt",
-"type": 0,
-"epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}&date={date}",
-"logo": "https://epg.112114.xyz/logo/{name}.png",
-"ua": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36"
-},    
-{"group":"redirect",
-"channels":[{
-"name":"redirect",
-"urls":["proxy://do=live&type=txt&ext=aHR0cDovL3huLS1paHF1MTBjbjRjLnhuLS16N3g5MDBhLmxvdmU6NjMvVFYvdHZ6Yi50eHQ="]}]
-}],
-
-
+"lives":[{"name":"live","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
+{"name":"TV","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   
 "sites":[
 {"key":"csp_酷酷","name":"🏵七七","type":3,"api":"csp_AppYsV2","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://kuyun.realku.cn/api.php/app/"}, 
