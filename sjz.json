@@ -9,7 +9,7 @@
 //喺方法上:创意唔敌适度.
 
 {
-"spider":"https://ghproxy.net/https://raw.githubusercontent.com/sunkangfu/666/main/xo.jar;md5;a4c63fe74439b399ccd4eaaf4c639588",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/sunkangfu/666/main/xo.jar;md5;aa78ba556383bd1adbad7745478ea5aa",
   
 "lives":[{"name":"live","type":0,"url":"http://home.jundie.top:81/Cat/tv/live.txt","playerType":1,"ua": "okhttp/3.12.13","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"},
 {"name":"TV","type":0,"url":"https://agit.ai/fantaiying/fmm/raw/branch/main/tv/m3u/global.m3u","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
@@ -45,7 +45,6 @@
 {"key":"Kuaikan","name":"👀快看","type":"3","api":"csp_Kuaikan","searchable":"1","quickSearch":"1","filterable":1},
 {"key":"csp_Lgyy","name":"🌀蓝光","type":3,"api":"csp_Lgyy","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://www.lgyy.vip"},  
 {"key":"Ddys","name":"⤵️低端影视","type":"3","api":"csp_Ddrk","searchable":"1","quickSearch":"1","filterable":1},
-{"key":"Smdyy","name":"🐴神马影视","type":"3","api":"csp_Smdyy","searchable":"1","quickSearch":"1","filterable":1},
 {"key":"Auete","name":"🏝奥特","type":"3","api":"csp_Auete","searchable":"1","quickSearch":"1","filterable":1},
 {"key":"csp_Cokemv","name":"📕可乐","type":3,"api":"csp_Cokemv","playerType":2,"searchable":1,"quickSearch":1,"filterable":1}, 
 {"key":"SP360","name":"📽️360影视","type":"3","api":"csp_SP33","searchable":"1","quickSearch":"1","filterable":1},
