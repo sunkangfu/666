@@ -11,7 +11,7 @@
 {
 "spider":"https://ghproxy.net/https://raw.githubusercontent.com/sunkangfu/666/main/xo.jar;md5;a5eaab0a824b174e0024d75e1d8731ff",
   
-"lives":[{"name":"live","type":0,"url":"http://hz752.love:63/txt/tvbs.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
+"lives":[{"name":"live","type":0,"url":"http://hz752.love:63/txt/tvbs.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],
   
 "sites":[
 {"key":"农民","name":"🌾农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/sunkangfu/666/main/MaooXB/nongmi.json"},
