@@ -14,7 +14,7 @@
 "lives":[{"name":"live","type":0,"url":"http://hz752.love:63/txt/ysbox.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],  
   
 "sites":[
-{"key":"csp_YGP","name":"🚀新片┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":1,"filterable":1},
+{"key":"csp_YGP","name":"🚀新片┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"MV_vod","name":"🎸明星┃MV","type":1,"api":"https://mv.饭太硬.ml/mv/vod","searchable":1,"quickSearch":1,"filterable":1},  
 {"key":"农民","name":"🌾农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/sunkangfu/666/main/MaooXB/nongmi.json"},
 {"key":"csp_DuoX","name":"💢多线┃App","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="},
