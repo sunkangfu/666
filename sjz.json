@@ -15,7 +15,7 @@
   
 "sites":[
 {"key":"csp_YGP","name":"🚀新片┃速递","type":3,"api":"csp_YGP","searchable":0,"quickSearch":0,"filterable":0},
-{"key":"MV_vod","name":"🎸明星┃MV","type":1,"api":"https://mv.饭太硬.ml/mv/vod","searchable":1,"quickSearch":1,"filterable":1},  
+{"key":"MV_vod","name":"🎸明星┃MV","type":1,"api":"https://mv.饭太硬.ml/mv/vod","searchable":1,"quickSearch":1,"filterable":1,"changeable":0},  
 {"key":"农民","name":"🌾农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/sunkangfu/666/main/MaooXB/nongmi.json"},
 {"key":"csp_DuoX","name":"💢多线┃App","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://1.117.111.78:93/home/api?type=ys&uid=230629&key=公众号【影视范】&url="},
 {"key":"量子","name":"🎯量子","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"filterable":1,"categories":["国产动漫","日韩动漫","国产剧","韩国剧","日本剧","电影片","连续剧","综艺片","动漫片","动作片","喜剧片","爱情片","科幻片","恐怖片","剧情片","战争片","台湾剧","香港剧","欧美剧","记录片","海外剧","泰国剧","大陆综艺","港台综艺","日韩综艺","欧美综艺","欧美动漫","港台动漫","海外动漫","体育","足球","篮球","网球","斯诺克"]},
