@@ -9,7 +9,7 @@
 //喺方法上:创意唔敌适度.
 
 {
-"spider":"https://ghproxy.net/https://raw.githubusercontent.com/sunkangfu/666/main/xo.jar;md5;f4ec316a5fa752ef8082328b9b28e708",
+"spider":"https://ghproxy.net/https://raw.githubusercontent.com/sunkangfu/666/main/xo.jar;md5;666ca7d5468412592cd65e5a22376dc6",
   
 "lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 //"lives":[{"name":"live","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}], 
