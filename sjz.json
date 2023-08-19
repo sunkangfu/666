@@ -24,7 +24,7 @@
 {"key":"贱贱","name":"🐭荐片","type":3,"searchable":1,"quickSearch":1,"filterable":"1","api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/jp.js"},
 {"key":"快看","name":"👀快看","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js","searchable":"1","quickSearch":"1","filterable":1},
 {"key":"4KHDR","name":"📯世界磁力","type":3,"searchable":1,"quickSearch":1,"filterable":1,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"},
-{"key":"新6V","name":"📯新6V磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://www.xb6v.com/"},  
+{"key":"新6V","name":"📯新6V磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"filterable":1,"ext": "http://www.xb6v.com/"},
 {"key":"愛看","name":"💘爱看","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/ikanbot_open.js","searchable":"1","quickSearch":"1","filterable":1},  
 {"key":"csp_BBB","name":"🅱️哔哩套餐","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/sunkangfu/666/main/bilib666.json"},  
 {"key":"农民","name":"🌾农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/sunkangfu/666/main/MaooXB/nongmi.json"},
