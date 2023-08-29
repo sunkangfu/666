@@ -32,7 +32,7 @@
 {"key":"农民","name":"🌾农民┃影视","type":3,"api":"csp_Nmys","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ghproxy.net/https://raw.githubusercontent.com/sunkangfu/666/main/MaooXB/nongmi.json"},
 {"key":"量子","name":"🐝量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"非凡","name":"✈非凡资源","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"changeable":1},  
-{"key":"csp_WoGG","name":"👽网络仓库┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://192.168.1.3/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
+{"key":"csp_WoGG","name":"👽网络哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://192.168.1.3/token.txt+4k|auto|fhd$$$http://tvfan.xxooo.cf/"},
 {"key":"七夜","name":"🔍七夜(仅搜索)","type":3,"api":"csp_Dovx","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://192.168.1.3/token.txt+4k|auto|fhd"},
 {"key":"csp_AliPS","name":"📚盘搜(仅搜索)","type":3,"api":"csp_PanSou","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://192.168.1.3/token.txt+4k|auto|fhd"},
 {"key":"盤搜索","name":"🙀盘Search(仅搜索)","type":3,"api":"csp_PanSearch","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://192.168.1.3/token.txt+4k|auto|fhd"},
