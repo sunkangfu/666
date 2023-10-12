@@ -53,7 +53,6 @@
 {"key":"探探","name":"🏵影探┃App","type":3,"playerType":"2","api":"csp_YTVIP","searchable":1,"quickSearch":1,"changeable":1,"timeout":30,"ext":"vip.lyyytv.cn"},
 {"key":"csp_Bttoo","name":"🍄比特┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"csp_Vofl","name":"🎈Voflix","type":3,"api":"csp_Voflix","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Xinsj","name":"🐼新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.6080yy3.com/"},
 {"key":"Ddys","name":"⤵️低端影视","type":"3","api":"csp_Ddrk","searchable":"1","quickSearch":"1","changeable":1},
 {"key":"Auete","name":"🏝奥特","type":"3","api":"csp_Auete","searchable":"1","quickSearch":"1","changeable":1,"ext":"http://www.aueteys.com/"},
