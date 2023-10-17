@@ -33,6 +33,7 @@
 {"key":"一起看 ","name":"🎉一起┃App","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"4KHDR","name":"📯世界磁力","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"},
 {"key":"新6V","name":"📯新6V磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.xb6v.com/"},
+{"key":"五五","name":"🥈五五","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/555dy_open.js","searchable":"1","quickSearch":"1","changeable":1}  
 {"key":"快看","name":"👀快看","type":3,"api":"https://fongmi.cachefly.net/FongMi/CatVodOpen/main/open/kkys_open.js","searchable":"1","quickSearch":"1","changeable":1},
 {"key":"暴風","name":"🔃暴风","type":1,"api":"https://bfzyapi.com/api.php/provide/vod/?ac=list","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"索尼","name":"🎢索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"changeable":1},
