@@ -92,16 +92,7 @@
 {"key":"csp_Nbys","name":"👑泥巴(墙外)┃SP","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇┃MV","type":3,"api":"csp_XPath","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/sunkangfu/666/main/MaooXB/kuqimv.json"},
 {"key":"push_agent","name":"🎯推送（爱优腾/阿里云盘/磁力链接）","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://192.168.1.3/token.txt"},
-{"key":"影视更新正式","name":"影视正式版下载","type":3,"api":"csp_Market","searchable":1,"changeable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext":[
-{"name":"TV版-java32","url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-armeabi_v7a.apk","icon":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"},
-{"name":"TV版-java64","url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/leanback-java-arm64_v8a.apk","icon":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"},
-{"name":"手機版-java32","url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-armeabi_v7a.apk","icon":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"},
-{"name":"手機版-java64","url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/release/mobile-java-arm64_v8a.apk","icon":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"}]},
-{"key":"影视更新内测","name":"影视内测版下载","type":3,"api":"csp_Market","searchable":1,"changeable":1,"jar":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext":[
-{"name":"TV版-java32","url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-armeabi_v7a.apk","icon":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"},
-{"name":"TV版-java64","url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/leanback-java-arm64_v8a.apk","icon":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"},
-{"name":"手機版-java32","url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-java-armeabi_v7a.apk","icon":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"},
-{"name":"手機版-java64","url":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/Release/main/apk/dev/mobile-java-arm64_v8a.apk","icon":"https://ghproxy.com/https://raw.githubusercontent.com/FongMi/TV/main/other/image/icon-2.png"}]}],
+{"key":"應用商店","name":"應用商店","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"}],
 
 "parses":[
 {"name":"开开心心","type":1,"url":"http://jx.wogg.link:63/jiexi/饭特析.php?url="},
