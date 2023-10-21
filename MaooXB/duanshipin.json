@@ -1,4 +1,3 @@
-// 搜寻验证
 var rule = {
     title:'短视频',
     host:'http://www.sharenice.net',
