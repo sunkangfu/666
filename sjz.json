@@ -40,7 +40,7 @@
 {"key":"索尼","name":"🎢索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"快帆","name":"🚣快帆","type": 1,"api":"https://api.kuaifan.tv/api.php/provide/vod","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"愛看","name":"💘爱看","type":3,"api":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodOpen/main/open/ikanbot_open.js","searchable":"1","quickSearch":"1","changeable":1},
-{"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar":"http://192.168.1.3/FM.jar"},
+{"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json","jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar"},
 {"key":"量子","name":"🐝量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"非凡","name":"✈非凡资源","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_WoGG","name":"👽网络哥哥┃4K","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://192.168.1.3/token.txt"},
@@ -92,7 +92,7 @@
 {"key":"csp_Nbys","name":"👑泥巴(墙外)┃SP","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇┃MV","type":3,"api":"csp_XPath","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://ghproxy.com/raw.githubusercontent.com/sunkangfu/666/main/MaooXB/kuqimv.json"},
 {"key":"push_agent","name":"🎯推送（爱优腾/阿里云盘/磁力链接）","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://192.168.1.3/token.txt"},
-{"key":"應用商店","name":"應用商店(更新)","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext":"https://ghproxy.com/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"}],
+{"key":"應用商店","name":"應用商店（更新）","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"}],
 
 "parses":[
 {"name":"开开心心","type":1,"url":"http://jx.wogg.link:63/jiexi/饭特析.php?url="},
