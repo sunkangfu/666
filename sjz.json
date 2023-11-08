@@ -38,7 +38,7 @@
 {"key":"快影","name":"🦄️快影┃App","type":3,"api":"csp_AppYsV2","playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"http://iosa.xn--654a.cc/api.php/app/"},
 {"key":"追忆","name":"🐿追忆┃App","type":3,"api":"csp_AppSK","searchable":1,"quickSearch":1,"changeable":1,"ext": "FbjPcVZY48PN/RIZ5UWFrphwLIZAH4tPWnVF46Ct0RcDCdqQ/iHaxETP6KexDCalbnKb235g2zI+TmNzCM49OFRCWdee3hnULz5M1CsK3w=="},
 {"key":"一起看 ","name":"🎉一起┃App","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
-{"key":"4KHDR","name":"📯世界磁力","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"},
+{"key":"4KHDR","name":"📯世界磁力","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"https://agit.ai/fantaiying/dr_py/raw/branch/main/libs/drpy2.min.js","ext":"https://agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"},
 {"key":"一起看 ","name":"🎉一起┃App","type":3,"api":"csp_YQKan","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"4KHDR","name":"📯世界磁力","type":3,"searchable":1,"quickSearch":1,"changeable":1,"api":"https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/drpy1.min.js","ext":"https://www.agit.ai/fantaiying/fty/raw/branch/master/JS/js/4khdr.js"},
 {"key":"新6V","name":"📯新6V磁力","type":3,"api":"csp_SixV","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://www.xb6v.com/"},
