@@ -51,7 +51,7 @@
 {"key":"YiSo","name":"🔍易搜(仅搜索)","type":3,"api":"csp_YiSo","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://192.168.1.3/token.txt"},
 {"key":"zhaozy","name":"🗂️找资源(仅搜索)","type":3,"api":"csp_Zhaozy","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://192.168.1.3/token.txt+4k|auto|fhd$$$fanty$$$qqq111"},
 {"key":"Upyunso","name":"😻Up云搜（仅搜索）","type":3,"api":"csp_UpYun","searchable":1,"quickSearch":1,"changeable":1,"ext":"http://192.168.1.3/token.txt"},
-{"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://gh-proxy.com/https://raw.githubusercontent.com/FongMi/CatVodSpider/main/json/alist.json"},   
+{"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://fm.t4tv.hz.cz/json/alist.json"},   
 {"key":"迪迪","name":"🌈迪迪┃App","api":"csp_AppYsV2","type":3,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"csp_Bttoo","name":"🍄比特┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
@@ -91,7 +91,7 @@
 {"key":"csp_Nbys","name":"👑泥巴(墙外)┃SP","type":3,"api":"csp_NiNi","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_xpath_kuqimv","name":"🎤酷奇┃MV","type":3,"api":"csp_XPath","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":"https://sunkangfu.github.io/666/MaooXB/kuqimv.json"},
 {"key":"push_agent","name":"🎯推送（爱优腾/阿里云盘/磁力链接）","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"changeable":0,"ext":"http://192.168.1.3/token.txt"},
-{"key":"應用商店","name":"應用商店（更新）","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"https://ghproxy.net/raw.githubusercontent.com/FongMi/CatVodSpider/main/jar/custom_spider.jar","ext":"https://fm.t4tv.hz.cz/json/market.json"}],
+{"key":"應用商店","name":"應用商店（更新）","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"https://fm.t4tv.hz.cz/jar/custom_spider.jar","ext":"https://fm.t4tv.hz.cz/json/market.json"}],
 
 "parses":[
 {"name":"成事如意","type":1,"url":"http://api.888484.xyz/jiexi/米太硬.php?url=","ext":{"flag":["qq","腾讯","qiyi","爱奇艺","奇艺","youku","优酷","sohu","搜狐","letv","乐视","mgtv","芒果","imgo","rx","ltnb","bilibili","1905","xigua"]}},
