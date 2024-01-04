@@ -9,9 +9,10 @@
 //喺方法上:创意唔敌适度.
 
 {
-"spider":"https://sunkangfu.github.io/666/xo.jar;md5;ea2690fc66083afe1431071968e60395",
-
-"lives":[{"name":"live","type":0,"url":"https://dxawi.github.io/0/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"}],  
+"spider":"https://sunkangfu.github.io/666/xo.jar;md5;68c899d0faa800a61b504b69a3911776",
+  
+"lives":[{"name":"live","type":0,"url":"https://dxawi.github.io/0/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"ipv6","type":0,"url":"https://live.fanmingming.com/tv/m3u/ipv6.m3u","playerType":1,"ua": "okhttp/3.15","epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],  
 //"lives":[{"name":"live","type":0,"url":"https://xhdwc.tk/tvlive.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}],
 //"lives":[{"name":"live","type":0,"url":"https://agit.ai/Yoursmile7/TVBox/raw/branch/master/live.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"}], 
   
