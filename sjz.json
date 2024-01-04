@@ -53,7 +53,6 @@
 {"key":"csp_Alist1","name":"🅿Alist┃网盘","type":3,"api":"csp_AList","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://fm.t4tv.hz.cz/json/alist.json"},   
 {"key":"迪迪","name":"🌈迪迪┃App","api":"csp_AppYsV2","type":3,"playerType":2,"searchable":1,"quickSearch":1,"changeable":1,"ext":"https://api123.adys.app/xgapp.php/v3/"},
 {"key":"csp_Bttoo","name":"🍄比特┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
-{"key":"csp_77","name":"👒七七┃App","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Xinsj","name":"🐼新视觉","type":3,"api":"csp_Xinsj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.hdmyy.com/"}, 
 {"key":"Ddys","name":"⤵️低端影视","type":"3","api":"csp_Ddrk","searchable":"1","quickSearch":"1","changeable":1},
 {"key":"Auete","name":"🏝奥特","type":"3","api":"csp_Auete","searchable":"1","quickSearch":"1","changeable":1,"ext":"https://haozhansou.com/"},
