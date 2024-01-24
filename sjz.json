@@ -53,7 +53,6 @@
 {"key":"csp_Bttoo","name":"🍄比特┃直连","type":3,"api":"csp_Bttwoo","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"Ddys","name":"⤵️低端影视","type":"3","api":"csp_Ddrk","searchable":"1","quickSearch":"1","changeable":1},
 {"key":"Auete","name":"🏝奥特","type":"3","api":"csp_Auete","searchable":"1","quickSearch":"1","changeable":1,"ext":"https://haozhansou.com/"},
-{"key":"csp_Cokemv","name":"📕可乐","type":3,"api":"csp_Cokemv","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"SP360","name":"📽️360影视","type":"3","api":"csp_SP33","searchable":"1","quickSearch":"1","filterable":1},
 {"key":"csp_zxzj","name":"🏠在线之家","type":3,"api":"csp_Zxzj","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.zxzj.pro/"},
 {"key":"csp_Lib","name":"🚚LibVio","type":3,"api":"csp_Libvio","searchable":1,"quickSearch":1,"changeable":1,"ext":"https://www.libvio.pro/"},
