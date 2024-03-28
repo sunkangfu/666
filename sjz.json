@@ -9,7 +9,7 @@
 //喺方法上:创意唔敌适度.
 
 {
-"spider":"https://ghproxy.net/raw.githubusercontent.com/sunkangfu/666/main/xo.jar;md5;dd909349c70fe92e82470eba611b7094",
+"spider":"https://ghproxy.net/raw.githubusercontent.com/sunkangfu/666/main/fan.txt;md5;602fb3226d777850053484cdeb2f3296",
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   
 "sites":[
@@ -99,6 +99,7 @@
 {"name":"DNSWatch","url":"https://resolver2.dns.watch/dns-query","ips":["84.200.69.80","84.200.70.40"]},
 {"name":"Quad9","url":"https://dns.quad9.net/dns-quer","ips":["9.9.9.9","149.112.112.112"]}
 ],
+
 "rules":[
 {"name":"kk","hosts":["kuaikan"],"regex":["5","20.123","20.167","#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-KEY:METHOD((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-DISCONTINUITY"]},
 {"name":"yqk","hosts":["yqk"],"regex":["18.4","15.1666","#EXT-X-DISCONTINUITY\\r*\\n*((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-OUT((?!#EXT-X-DISCONTINUITY)[\\s\\S])*?#EXT-X-CUE-IN"]},
