@@ -51,6 +51,8 @@
 {"key":"索尼","name":"🎢索尼","type":1,"api":"https://suoniapi.com/api.php/provide/vod","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"量子","name":"🐝量子资源","type":0,"api":"https://cj.lziapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"非凡","name":"✈非凡资源","type":0,"api":"http://cj.ffzyapi.com/api.php/provide/vod/at/xml/","searchable":1,"quickSearch":1,"changeable":1},
+{"key":"dr_兔小贝","name":"📚儿童┃启蒙","type":3,"api":"https://gitlab.com/fantaiying/ext/-/raw/main/drpy2.min.js","ext":"https://gitlab.com/fantaiying/ext/-/raw/main/%E5%85%94%E5%B0%8F%E8%B4%9D.js","style":{"type":"rect","ratio":1.597},
+"searchable":0,"quickSearch":0,"changeable":0},  
 {"key":"csp_Dm84","name":"🚌动漫巴士┃SP","type":3,"api":"csp_Dm84","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Ysj","name":"🎀异界动漫┃SP","type":3,"api":"csp_Ysj","searchable":1,"quickSearch":1,"changeable":1},
 {"key":"csp_Anime1","name":"🐾日本动漫┃SP","type":3,"api":"csp_Anime1","searchable":1,"quickSearch":1,"changeable":1},
