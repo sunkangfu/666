@@ -82,7 +82,7 @@
 {"key":"初中课堂","name":"📚初中课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":1,"changeable":0,"ext":{"json":"https://ghproxy.net/raw.githubusercontent.com/sunkangfu/666/main/初中课堂.json"}},
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":1,"changeable":0,"ext":{"json":"https://ghproxy.net/raw.githubusercontent.com/sunkangfu/666/main/高中课堂.json"}},
 {"key":"Bili","name":"🅱️哔哩套餐(bilibili)","type":3,"api":"csp_Bili","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":1,"changeable":0,"ext":{"json":"https://ghproxy.net/raw.githubusercontent.com/sunkangfu/666/main/bili2.json"}},
-{"key":"push_agent","name":"🎯推送（爱优腾/阿里云盘/磁力链接）","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Ali-drive":"http://192.168.1.3/token.txt","from":"4k|auto"}},
+{"key":"push_agent","name":"🎯推送（爱优腾/阿里云盘/磁力链接）","type":3,"api":"csp_Push","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
 {"key":"應用商店","name":"應用商店（更新）","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"https://FongMi.github.io/CatVodSpider/jar/custom_spider.jar","ext":"https://FongMi.github.io/CatVodSpider/json/market.json"}],
 
 "logo":"https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716545739254/fc1b89e152cd4aa28d295107cb6c56c9.gif",
