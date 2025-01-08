@@ -1,6 +1,4 @@
-{
-  "cookie":"https://ghproxy.net/raw.githubusercontent.com/sunkangfu/666/main/cookie.txt",
-  "classes":[
+{"class":[{"type_name":"登陆配置","type_id":"peizhi"},
 {"type_name":"学前","type_id":"学前"},
 {"type_name":"小学","type_id":"小学"},
 {"type_name":"初中","type_id":"初中"},
