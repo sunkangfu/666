@@ -1,5 +1,4 @@
-﻿{
-  "classes": [
+{"class":[{"type_name":"登陆配置","type_id":"peizhi"},
     {"type_name": "MV","type_id": "MV"},
     {"type_name": "抖音音乐","type_id": "抖音音乐MV"},
     {"type_name": "快手音乐","type_id": "快手音乐MV"},
