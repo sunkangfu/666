@@ -1,6 +1,6 @@
+{"class":[{"type_name":"登陆配置","type_id":"peizhi"},
+
 {
-  
-	"classes": [{
 			"type_name": "演唱会筛选",
 			"type_id": "演唱会超清"
 		},
@@ -36,7 +36,7 @@
     
 	],
   
-  "cookie": "https://ghproxy.net/raw.githubusercontent.com/sunkangfu/666/main/cookie.txt",
+  
   
 	"filter": {
 		"演唱会超清": [{
