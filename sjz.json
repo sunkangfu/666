@@ -54,7 +54,6 @@
 {"key":"超全","name":"⚽超全┃看球","type":3,"api":"csp_ZbzGuard","searchable":0,"quickSearch":0,"changeable":0,"style":{"type":"list"},
 "ext":"uqGL1fpJNAUf8fdTwZCE5qSp+Q=="},
 {"key":"看球","name":"⚽手机┃看球","type":3,"api":"csp_KanqiuGuard","timeout":10,"searchable":0,"changeable":0,"style":{"type":"list"}},
-{"key":"MTV","name":"🎶明星┃MV","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},
 "searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://nos.netease.com/ysf/5af5fbe12a88b7c45aa1c21e6551826c.txt"}},
 {"key":"有声小说","name":"🎧有声┃小说","type":3,"api":"csp_Tingshu275Guard","style":{"type":"rect","ratio":1},
 "searchable":0,"quickSearch":0,"changeable":0}, 
