@@ -13,7 +13,7 @@
 "wallpaper":"http://www.kf666888.cn/api/tvbox/img",
   
 "sites":[
-{"key":"豆豆","name":"热播电视剧","type":3,"api":"csp_DouDouGuard","searchable":0,"quickSearch":0,"filterable":0},
+{"key":"豆豆","name":"▶热播电视剧▶","type":3,"api":"csp_DouDouGuard","searchable":0,"quickSearch":0,"filterable":0},
 {"key":"Bili","name":"🅱️哔哩套餐(bilibili)","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":1,"quickSearch":1,"changeable":1,"ext":{"json":"https://ghproxy.net/raw.githubusercontent.com/sunkangfu/666/main/bilib666.json"}},
 {"key":"Aid","name":"🚑急救┃教学","type":3,"api":"csp_FirstAidGuard","searchable":1,"quickSearch":1,"changeable":0,"style":{"type":"rect","ratio":3.8}},
 {"key":"MTV","name":"🎧明星┃MV","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":0,"changeable":0,"ext":{"json":"https://ghproxy.net/raw.githubusercontent.com/sunkangfu/666/main/MTV.json"}},
