@@ -68,7 +68,7 @@
 {"key":"高中教育","name":"📚高中课堂","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":1,"changeable":0,"ext":{"json":"https://ghproxy.net/raw.githubusercontent.com/sunkangfu/666/main/高中课堂.json"}},
 {"key":"Bili","name":"🅱️哔哩套餐(bilibili)","type":3,"api":"csp_BiliGuard","style":{"type":"rect","ratio":1.597},"searchable":0,"quickSearch":1,"changeable":0,"ext":{"json":"https://ghproxy.net/raw.githubusercontent.com/sunkangfu/666/main/bili2.json"}},
 {"key":"push_agent","name":"🎯推送（爱优腾/阿里云盘/磁力链接）","type":3,"api":"csp_PushGuard","searchable":0,"quickSearch":0,"ext":{"Cloud-drive":"tvfan/Cloud-drive.txt","from":"4k|auto"}},
-{"key":"應用商店","name":"應用商店（更新）","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"https://FongMi.github.io/CatVodSpider/jar/custom_spider.jar","ext":"https://FongMi.github.io/CatVodSpider/json/market.json"}],
+{"key":"應用商店","name":"應用商店（更新）","type":3,"api":"csp_Market","searchable":0,"changeable":0,"jar":"https://ghproxy.net/raw.githubusercontent.com/sunkangfu/666/main/FM.jar","ext":"https://ghproxy.net/raw.githubusercontent.com/FongMi/CatVodSpider/main/json/market.json"}],
 
 "logo":"https://bdcache1-f1.v3mh.com/image/25-12-16/6941612717007.gif",
 "hosts":["img1.wsyzy.org=fan.cloudflare.182682.xyz","fiizvfck.top=fan.cloudflare.182682.xyz"],
